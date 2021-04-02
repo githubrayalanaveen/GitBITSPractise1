@@ -1,2 +1,2 @@
-This is the first line of Naveen Rayala's file
-This is the second line of Navene Rayala
+This is Naveen Rayala's first line
+This is second line
